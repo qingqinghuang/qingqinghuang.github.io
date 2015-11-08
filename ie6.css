@@ -1,0 +1,30 @@
+
+/* These rules apply to Internet Explorer 6 and lower */
+
+#wrapper {
+	overflow: hidden;	
+}
+
+#photowrapper {
+	/* overflow: hidden;	 */
+}
+/* navigation */
+#nav {
+  position: absolute;
+}
+#nav li {
+	zoom: 1;
+}
+#nav li * {
+	zoom: 1;
+	margin-bottom: 0;
+}
+/* h1#fff span { */
+/* 	overflow: hidden; */
+/* } */
+
+#photohome {
+    
+     position: absolute; 
+     /* visibility:hidden; */
+}
