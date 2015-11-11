@@ -4,8 +4,7 @@
 body {
 /* background: #242D36 url(images/background.jpg) no-repeat 0 180px; */
     /* width: 1200px; */
-    /* background: #242d36; */
-    color: #000;
+    background: #ABD3CA;
     line-height: 1.4;
     left: 0px;
     font-family: Verdana,Helvetica, Arial, sans-serif;
@@ -28,7 +27,7 @@ p {
 #wrapper {
     position: absolute;
     left: 160px;
-    width: 1500px;
+    width: 1000px;
     padding-bottom: 30px;
 }
 
